@@ -2,4 +2,5 @@
     <string name="app_name">MVVMTutorial</string>
 
     <string name="text_skip">Skip now</string>
+    <string name="validation_empty">Empty value</string>
 </resources>
