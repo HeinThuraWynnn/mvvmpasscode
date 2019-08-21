@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMTutorial</string>
+
+    <string name="text_skip">Skip now</string>
+</resources>
